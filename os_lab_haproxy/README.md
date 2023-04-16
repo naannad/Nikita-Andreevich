@@ -1,5 +1,4 @@
 ## Описание работы :point_down: ## 
-### Балансировка нагрузки HAProxy ###
 + установка и настройка ПО обеспечивается ansible, 
 + установка nginx на виртуальные машины web1 и web2,
 + на серверах haproxy1, haproxy2 установить и настроить отказоустойчивую связку HAProxy+Keepalived,
@@ -18,3 +17,7 @@
  ~~~
  
  ## Проверка ##
+работа балансировщика:
+![изображение](https://user-images.githubusercontent.com/113581587/232330404-bbb59193-73a1-4d82-ace4-baefa0fe6346.png)
+
+![изображение](https://user-images.githubusercontent.com/113581587/232330440-421f4c43-69a1-4ab9-840f-974d621b06df.png)
