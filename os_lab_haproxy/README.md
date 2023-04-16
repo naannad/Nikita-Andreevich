@@ -17,3 +17,8 @@
  ~~~
  
  ## Проверка ##
+работа балансировщика:
+
+![изображение](https://user-images.githubusercontent.com/113581587/232329496-6e1ef7b8-6498-49d2-abf9-d8c62e67e5d8.png)
+
+![изображение](https://user-images.githubusercontent.com/113581587/232329460-aeee7fc5-2a5e-403a-8901-dcd5d007bf89.png)
