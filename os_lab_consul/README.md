@@ -15,6 +15,11 @@
  ~~~
  ansible-playbook sirius.yml
  ~~~
+ + для вывода результата
+ ~~~
+ patronictl -c /opt/app/patroni/etc/postgresql.yml list
+ ~~~
  
  ## Результат ##
 
+![изображение](https://user-images.githubusercontent.com/113581587/232332188-a534b4d6-8398-4dd4-93bf-75eede06476f.png)
