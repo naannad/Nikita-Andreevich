@@ -1,3 +1,0 @@
----
-# vars file for balancer
-nginx_port: 8080
