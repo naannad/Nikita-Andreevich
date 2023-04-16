@@ -13,8 +13,8 @@
  ~~~
  + запуск playbook
  ~~~
- ansible-playbook nginx.yml
+ ansible-playbook sirius.yml
  ~~~
  
- ## Проверка ##
-работа балансировщика:
+ ## Результат ##
+
